@@ -112,6 +112,11 @@ footer {
   background: rgba(219, 219, 219, 0.99);
   color: #000; }
 
+mark {
+      background-color: rgba(219, 219, 219, 0.99);
+      color: rgb(0, 0, 0);
+    }
+
 /**
  * Lists
  */
